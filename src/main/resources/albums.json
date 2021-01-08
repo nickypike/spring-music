@@ -2,7 +2,7 @@
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
         "artist": "Nirvana",
-        "title": "Nevermind",
+        "title": "Nevermind Nicky was here",
         "releaseYear": "1991",
         "genre": "Rock"
     },
